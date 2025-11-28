@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webp-converter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bcada4d6839f5191841fbedb9693e6ceff92c89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67df9696ce798bca877f9c1347dd2065c76e342a")]
 [assembly: System.Reflection.AssemblyProductAttribute("webp-converter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webp-converter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
