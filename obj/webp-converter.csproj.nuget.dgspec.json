@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\IP Utility Apps\\webp-converter\\webp-converter\\webp-converter.csproj": {}
+    "Z:\\IP Utility Apps\\webp-converter\\webp-converter.csproj": {}
   },
   "projects": {
-    "Z:\\IP Utility Apps\\webp-converter\\webp-converter\\webp-converter.csproj": {
+    "Z:\\IP Utility Apps\\webp-converter\\webp-converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\IP Utility Apps\\webp-converter\\webp-converter\\webp-converter.csproj",
+        "projectUniqueName": "Z:\\IP Utility Apps\\webp-converter\\webp-converter.csproj",
         "projectName": "webp-converter",
-        "projectPath": "Z:\\IP Utility Apps\\webp-converter\\webp-converter\\webp-converter.csproj",
+        "projectPath": "Z:\\IP Utility Apps\\webp-converter\\webp-converter.csproj",
         "packagesPath": "C:\\Users\\rydzk\\.nuget\\packages\\",
-        "outputPath": "Z:\\IP Utility Apps\\webp-converter\\webp-converter\\obj\\",
+        "outputPath": "Z:\\IP Utility Apps\\webp-converter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rydzk\\AppData\\Roaming\\NuGet\\NuGet.Config",

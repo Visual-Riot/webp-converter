@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VzWoRaNsxI=",
+  "dgSpecHash": "jizsfTK3Y1k=",
   "success": true,
-  "projectFilePath": "Z:\\IP Utility Apps\\webp-converter\\webp-converter\\webp-converter.csproj",
+  "projectFilePath": "Z:\\IP Utility Apps\\webp-converter\\webp-converter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rydzk\\.nuget\\packages\\sixlabors.imagesharp\\3.1.12\\sixlabors.imagesharp.3.1.12.nupkg.sha512"
   ],
