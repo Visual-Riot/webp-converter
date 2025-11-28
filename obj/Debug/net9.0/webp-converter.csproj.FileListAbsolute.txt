@@ -1,0 +1,17 @@
+Z:\IP Utility Apps\webp-converter\webp-converter\bin\Debug\net9.0\webp-converter.exe
+Z:\IP Utility Apps\webp-converter\webp-converter\bin\Debug\net9.0\webp-converter.deps.json
+Z:\IP Utility Apps\webp-converter\webp-converter\bin\Debug\net9.0\webp-converter.runtimeconfig.json
+Z:\IP Utility Apps\webp-converter\webp-converter\bin\Debug\net9.0\webp-converter.dll
+Z:\IP Utility Apps\webp-converter\webp-converter\bin\Debug\net9.0\webp-converter.pdb
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\webp-converter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\webp-converter.AssemblyInfoInputs.cache
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\webp-converter.AssemblyInfo.cs
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\webp-converter.csproj.CoreCompileInputs.cache
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\webp-converter.dll
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\refint\webp-converter.dll
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\webp-converter.pdb
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\webp-converter.genruntimeconfig.cache
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\ref\webp-converter.dll
+Z:\IP Utility Apps\webp-converter\webp-converter\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\webp-converter.csproj.AssemblyReference.cache
+Z:\IP Utility Apps\webp-converter\webp-converter\obj\Debug\net9.0\webp-con.DAD27D62.Up2Date
